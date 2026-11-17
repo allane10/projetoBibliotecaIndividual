@@ -1,4 +1,4 @@
-package br.ufpb.dcx.allane.sistemabiblioteca;
+package br.ufpb.dcx.allane.biblioteca;
 
 public class autorInexistenteException extends Exception{
 

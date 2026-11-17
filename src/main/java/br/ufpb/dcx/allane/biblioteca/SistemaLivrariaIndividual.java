@@ -1,4 +1,4 @@
-package br.ufpb.dcx.allane.sistemabiblioteca;
+package br.ufpb.dcx.allane.biblioteca;
 
 public interface SistemaLivrariaIndividual {
     public void cadastrarLivro(String codigo, String autor, String titulo, int quantPaginas, boolean foiLido) throws livroJaCadastradoException;
