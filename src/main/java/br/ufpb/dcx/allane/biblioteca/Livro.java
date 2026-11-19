@@ -43,7 +43,7 @@ public class Livro {
     public void setQuantPaginas(int quantPaginas){
         this.quantPaginas = quantPaginas;
     }
-    public boolean foiLido(){
+    public boolean isLivroLido(){
         return this.livroLido;
     }
     public void setLivroLido(boolean livroLido){
